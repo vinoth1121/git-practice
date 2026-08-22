@@ -2,3 +2,4 @@ hello git
 welcome to Git 
 Learning Git 
 this is my feature branch 
+GitHub is connected  
