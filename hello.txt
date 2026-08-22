@@ -3,3 +3,4 @@ welcome to Git
 Learning Git 
 this is my feature branch 
 GitHub is connected  
+Change made on GitHub
